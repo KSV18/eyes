@@ -52,3 +52,12 @@
   transform: translate(-50%, -50%);
   border-radius: 50%;
 }
+
+
+/* Footer */
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #5081a9;
+  color:white;
+}
